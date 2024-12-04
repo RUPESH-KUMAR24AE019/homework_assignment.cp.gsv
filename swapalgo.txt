@@ -1,0 +1,6 @@
+//algorithum to swap two numbers
+STEP 1:- Take two number,says A and B
+STEP 2:- Store the value of A in a temporary variable, say C
+STEP 3:- Assign the value of B to A.
+STEP 4:- Assign the value stored in C to A.
+STEP 5:- Now,the values of A and B are swapped.

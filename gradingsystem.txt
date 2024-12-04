@@ -1,0 +1,9 @@
+//algorithum to find the grade obtained by a student based on their marks 
+STEP 1:- Take the marks of the student as input,say marks
+STEP 2:- Compare the marks using the following rules 
+    #if marks > 75,grade=outstanding.
+    #if 60 <= marks <= 75,grade=excellent.
+    #if 50 <= marks < 60,grade=good.
+    #if 40<= marks <50,grade=average.
+    #if marks <40,grade=fail.
+STEP 3:- display the grade based on the marks 

@@ -1,0 +1,5 @@
+//algorithum of sum of N natural number
+STEP 1:- Take the value of n as input.
+STEP 2:- Use the formula.
+    #Sum=n*(n+1)/2
+STEP 3:- Display the result.

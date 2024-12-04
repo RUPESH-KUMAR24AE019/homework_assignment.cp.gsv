@@ -1,0 +1,6 @@
+//algorithum to find the larger of two number
+STEP 1:- Take two numbers,say A and B
+STEP 2:- Compare A and B.
+        #If A>B, then A is larger.
+        #Otherwise,B is larger.
+STEP 3:- Output the larger number.
